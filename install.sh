@@ -82,7 +82,7 @@ function console_menu() {
     echo '[01] - Instalar CheckUser'
     echo '[02] - Atualizar CheckUser'
     echo '[03] - Desinstalar CheckUser'
-    echo '[00] - Sair (by: @Kaua_VPN)'
+    echo '[00] - Sair (by: @PoderosoChefao)'
 
     read -p 'Escolha uma opção: ' option
 
