@@ -1,4 +1,4 @@
-url='https://github.com/kauavpnlite/CheckUser'
+url='https://github.com/faath/CheckUser'
 
 cd ~
 
